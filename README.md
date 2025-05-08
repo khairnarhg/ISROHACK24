@@ -11,7 +11,6 @@ Develop an AI/ML-based system to classify hyperspectral data from **Chandrayaan-
 
 - **Python**
 - **scikit-learn**
-- **XGBoost**
 - **Keras / TensorFlow** (for deep learning)
 - **Pandas, NumPy** – Data preprocessing
 - **Matplotlib, Seaborn** – Visualization
